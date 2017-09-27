@@ -28,8 +28,8 @@ def checkinfo(chat_id,info):
                         'help: shows this message \n'+
                         'ram: shows used, free and total ram\n'+
                         'disk: shows used, free and total disk\n'+
-                        'system: \n'+
-                        'cpu: \n'+
+                        'system: shows system uptime\n'+
+                        'cpu: shows cpu usage\n'+
                         'list: Lists torrents\n'+
                         'add [magnetic link]: adds torrent to the list \n'+
                         'remove [id]: removes selected torrent from list\n'+
