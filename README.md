@@ -1,2 +1,2 @@
 # Telegram_Pi_Bot
-Simple bot who reads Raspberry Pi infos and informations about transmission torrents
+Simple Telegram bot in python which reads Raspberry Pi infos and informations about transmission torrents
